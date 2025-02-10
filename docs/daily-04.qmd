@@ -85,7 +85,7 @@ Click the settings (wheel) icon next to `knit` to render the output document in 
 ```yaml
 ---
 title: "My First Quarto Document"
-author: "Your Name"
+author: Madi Schartz
 date: today
 format: html
 ---
